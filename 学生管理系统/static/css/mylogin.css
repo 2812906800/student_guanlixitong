@@ -1,0 +1,11 @@
+form {
+	width: 400px;
+	margin: 50px auto;
+}
+form input {
+	width: 100% !important;
+}
+
+.H {
+	color: red !important;
+}

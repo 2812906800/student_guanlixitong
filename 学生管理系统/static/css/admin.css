@@ -1,0 +1,15 @@
+.box{
+	width: 800px;
+	height: 800px;
+	margin: 50px 200px;
+}
+.H {
+	color: red !important;
+}
+
+.sousuo {
+	margin: 50px 100px;
+}
+input[name="sousuo"] {
+	width: 100px;
+}
